@@ -1,0 +1,49 @@
+.nav-header{
+    font-size: 3rem;
+    font-weight: bold;
+}
+.navbar-nav{
+    font-size: 1rem;
+    font-weight: bold;
+}
+.nav-item{
+    text-decoration: none;
+    color: #f1faee;
+}
+.nav-link{
+    text-decoration: none;
+    color: #f1faee;
+}
+.header{
+    background-color: #e63946;
+    color: #f1faee;
+}
+body{
+    background-color:#1d3557;
+    color: #f1faee;
+}
+#about-img{
+    border-radius: 50%;
+    max-width: 100%;
+}
+#my-projects{
+    padding-top: 100px;
+}
+#about-me{
+    padding-top: 100px;
+}
+a{
+    color: #f1faee;
+}
+#about-bio{
+    font-size: 20px;
+}
+.section-contact{
+    padding-top: 100px;
+}
+.logo{
+    width: 50%;
+}
+#contact-me{
+    padding-top: 100px;
+}
